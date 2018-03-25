@@ -1,0 +1,176 @@
+<resources>
+    <string name="app_name">Voyage2</string>
+    <string name="title_activity_main">Voyage 2.0</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="scan_tips">\n\n1. Steadily hold your device in portrait mode.\n\n2. Adjust the device such that the QR code is inside
+    the rectangular box.\n\n3. Wait for a couple of seconds for auto focus.\n\n4. If the QR scan is correct you will be provided with the next fragment
+        of the story, and the next Clue.</string>
+
+    <string name="about_voyage">Are you a fan of AR(Augmented Reality) Games like Pokemon GO?
+Voyage is an QR code based AR game with elements of exciting storytelling mixed with race against time tasks.
+The user has to figure out the locations of QR codes through the clues hidden in the story of the game to unravel the next QR code and complete the story.
+The participant with fastest completion and high accuracy rate will be the winner of The Voyage.</string>
+
+    <string name="rules">
+\n1. The user needs to pay an entry fee of RS 30 to participate in this event.
+\n2. Two players can also team up together, all the stated rules remain the same, but the combined entry fee decreases to RS 50.
+\n3. The player will be provided with the official Voyage 2.0 Android App. There are two stories to choose from, all the rules apply equally to each story.
+\n4. There are a total of 10 QR codes that are hidden throughout the campus.
+\n5. Player needs to solve the mystery, in order to find the destination of the next QR code.
+\n6. Scanning the next hidden QR code will unlock the next fragment of the story.
+\n7. This process is repeated until the story is completed.
+\n8. On Completion of the story, the App will prompt you to send an email. This email contains your unique completion Id that contains encrypted data, do not temper with it. Just hit send.
+\n9. We will evaluate winner on the basis of the least time taken to complete the story.
+\n10. The winner(s) will be rewarded cash prizes at the end of the event.
+\n11. Players who have already participated in voyage 2.0, shall not be allowed to participate again.
+\n12. We reserve the rights to disqualify any player in case of cheating or based on any other reasons.
+        \n13. For Bugs and feedback write at: bikkikumarsha@gmail.com
+</string>
+
+
+    <string-array name="story1">
+
+        <item>\nThe bell finally rings; you pick up your bag and walk out of the class. You are exhausted after such a long day at school. You walk out of the school, the sky is brimming with orange light, and you can see the birds flying back to their nests. You are a third year student with computer science major, a typical high school teen, just trying to fit in. You see your crush, Rachel, getting on the bus, you wave at her. Your house is 15 minutes away so you often walk home, it’s not like your dad could give you a ride, as he is always working on some weird projects. You walk down the road, watching out for the traffic as you go. "Oh wait..my phone, i left it in the class", you turn around and hurry back towards the school. It seemed deserted. You climb up the stairs, taking two steps at a time. You open the classroom door and walk towards your bench.</item>
+
+
+        <item>\nThere you see your phone, just where you left it, you pick it up "17 missed calls from dad?" you mumble. The phone rings again.
+\n"Hello dad"
+\n"R-ross, where are you? Tell me" -dad stumbled
+\n"i am in the schoo-"
+\n"l-listen to me, wh-where (burp) -ever you are, find a shelter, l-lock yourself in a room, and close all the door and windows, wait for my call" -he interrupted
+\n"b-but, what’s the matter, what’s happe-" -he hung up.
+\nYour heart raced as you tied to understand what was happening, you tried to call him again but couldn’t connect. You ran towards the door and closed it, locking it shut, and did the same with a few windows open at the back. You have never sensed such urgency in your dad's voice before; he was always cool and laid back. You slowly open your eyes, seems like you fell asleep, last thing you remembered was a bright flash and then everything went black. You look around, it was bright, and the air was cool and smelled like spring. You seemed to be in a place with lots of parked school busses.
+</item>
+
+
+        <item>\nYou stand up, dusting you self, you looked around, you were in the school, there were students all around, laughing, chatting, playing. Something didn’t seem right, why were they all dressed like that, what place is this, where am i? You started walking, looking around, the building looked familiar; it was like your school.
+\nThe building, the people and their clothes, something was gravely wrong.
+\nYou walked around as you saw some fliers and newspaper cutting pinned on the bulletin board. You moved closer, trying to read, "Strange storm hits Alberta, Two missing" and there was a picture of the missing students. You continued reading "Two high school students are still missing after a strange storm accompanied by an unusual electromagnetic discharge, hits Alberta on 19 March 1983, local police has - " whoa, wait what "1983",Is it really happening, are you in 1983, perhaps it a theme event that you don’t know about. You need to be sure what is happening; you need to talk to someone in charge, someone with authority.
+</item>
+
+        <item>\nYou go inside the principal’s office trying to digest the reality, is this a dream? The building, the cars, the clothes, the furniture, no doubt you have travelled back in time. You saw the principle was talking to a two police officers. You peep in trying to listen what they are talking about.
+\n"It’s getting harder and harder for me to control the parents; did you find the boys yet?" -asked the principle.
+\n"No sir, but we have been looking for them continuously for the pass 5 days, we found their bicycles by the well, but no sign of them" -officer replied, scratching his head.
+\n"The locals saw unusual bright flash during the storm, at the night of their disappearance, near the well" -said the other officer.
+\n"What's that supposed to mean" -asked the principle.
+\n"We don’t know yet"
+\nWait a minute; this seems similar to the flash that i saw earlier. You decided to visit the scene yourself; maybe you will find some clue.
+</item>
+
+        <item>\nYou finally reach the well. It was in the middle of woods, The whole scene was surrounded with yellow police tape, with "no-crossing" sign on it. You decide not to mess with the evidence as messing with past, can have a drastic effect in the future. You need to be careful not to engage with people and objects of the past.
+\nKeeping these things in mind, you went closer to the scene, you looked at the bicycles and you suddenly remembered about your phone. You run back to where you woke up, you looked everywhere but you couldn’t find it, after 30 minutes of searching, you find it near the playing ground, by the tree.
+</item>
+
+
+        <item>\nYou pick up the phone, it seemed to be fine, You tried to call your dad, but you couldn’t connect, you were not very surprised. He always knew what to do in situations like this. If only he was with you, -wait, dad grew up here in Alberta, maybe you could find him, but how. Its not like you could ask someone, You can’t risk to alter the future, nor could you search the internet. There must be a place where you could find more information.  </item>
+
+
+        <item>\nYou enter the school library and go to the attendant
+\n“Excuse me miss, Where is the -” – You were taken aback, “Rachel is that you” –Words just flowed from your mouth.
+\n“I am sorry dear, you must have mistaken me for someone else” –she replied.
+\nThe features were surprisingly similar, maybe she was some relative of hers, you decided not to ask any further questions as you already have done a huge mistake by asking her that first question.
+\n“Sorry miss- could you point me to the public records section”
+\nYou sit quietly at the corner, quickly glancing over the yellow pages and phone books trying to find your dad’s address. Suddenly you see two guys in black coat, talking to attendant; you hid behind a book-self as she pointed at you. You knew something was not right, you swiftly dodged the guys and ran as fast as you can, you were not sure if they saw you leaving. You are exhausted by the run and you decide to rest by the college gate.
+</item>
+
+
+        <item>\nYou wipe your sweats. Suddenly the phone starts ringing and vibrating. You are taken aback; there cannot be a technology to communicate with the device made 30 years from now. You took out the phone, your hand shaking. No one was calling you; suddenly the screen started showing weird static. Maybe it is broken, you though. It was already getting dark and you had no place to go, it seemed like a never ending nightmare. You heard a car park near the college entrance, towards your right (near the entrance), you see a middle aged man holding a big box with an antenna, heading towards you and waving at you. Who was this guy, what does he wants from you?
+\nYou turn to your left and start running. You are exhausted already so you finally stop after a few meters when there’s no more space left to run.
+</item>
+
+
+        <item>\nThe man approached you with a friendly tone, “hello, there is no need to run from me, I am here to help.
+\n“What do you mean, how do you know I needed help, and who are you?” you shouted, unable to control your emotions.
+\n“Calm down, I will tell you everything”
+\n“Since today morning a strong electromagnetic signal appeared out of nowhere, I have been trying to triangulate the exact location of the origin since then.
+\n“It’s probably my phone” –I said as I showed him my phone. His eyes lit up, as he looked at it with great curiosity. I told him I was from future, and everything happened so far, I don’t know why, but I felt that I could trust him. He was not as surprised as I expected him to be.
+\n“I have been studding about these strange geo-magnetic storm for about a decade now, Trust me I didn’t except to see this”
+\n“Just follow me, there is a experiment I could try, the local officials might have caught that signal too, we have little time” He takes you to an open field.
+</item>
+
+
+        <item>\nHe took out four strange poles and fixed them on the field, “I might be able to simulate the electromagnetic energy, just enough to send you to your time, “You see when an object travels in time, it goes somewhere it doesn’t belong, that’s why I think , it will take back to the exact time, where you belong.”
+\nI stood in the center of the poles, he adjusted a few knobs and gears and there was a flash.
+\nI woke up several hours later in a daze. I opened my eyes, YESS! I cried. I looked around, my school, the people, everything, I was back to my time. Perhaps I should grab something to eat first.
+</item>
+
+
+        <item>\nI walked out of the cafe rubbing my belly; I was a long time since I had eaten anything. Thank god the Nightmare is over, hey wait.. Maybe it was a just a dream. It was sunny outside, I saw Ned, “Hello bro, why are your clothes so dirty” –he asked. “Well, that’s a long story” –I sighed.
+\n“It sure is sunny today Ned, huh?” – I exclaimed as I looked up, at the sky, and to my surprise, there were four big moons shining in the sky.
+</item>
+    </string-array>
+
+
+    <string-array name="story2">
+        <item>\nIt all started when I bought a second hand iPod for listening music while working on my project. The music player was quite intriguing in design because it looked like a design from future! The next day I started working on my project in the college library. I was researching about concepts of Space-Time Continuum for my project.
+</item>
+        <item>\nI didn’t like the song that was playing. So, I pressed next button  on the iPod and started working. Then I suddenly heard a sound outside the library. So I rushed outside only to find it was midnight. I didn’t understand anything, literally I was outta my mind. I went into library a few minutes ago and it was in the evening, but now it’s suddenly midnight. I stumbled and sat on the edge of the Well nearby.
+</item>
+        <item>\nThen I heard the same noise again, So I followed it.
+\nBut it was silent halfway through the turning and all I could see was bushes and trees.
+\nThen I head towards our department, but it was locked. So, I went near canteen to drink some water but it was closed.
+</item>
+        <item>\nSo, I spit the chewing gum in the trash can and headed back to the side gateway of the department block. Then I found that side gateway was open a bit so I squeezed in.
+</item>
+        <item>\nThen I headed towards main steps and found that the main steps were blocked. Then I found something weird in the display, So I went to check it out!
+\nThere was a poster that read “Missing” and under it there was my photo and name!
+</item>
+        <item>\nIt was a very shocking moment for me! I couldn’t believe what was happening.
+\nI ran upstairs to only find there was only my missing poster all over the Staff rooms and class rooms.
+</item>
+        <item>\nThen I went mad and started running randomly till I was exhausted and sat near a transformer.
+</item>
+        <item>\nThen in the distance I seen a mysterious person sitting near the Aircraft in our ground.
+By the time I reached the seats he was vanished.
+</item>
+        <item>\nSo, I ran till the main entrance but couldn’t find him.
+\nMy mind was totally mixed up. I don’t know where I was headed, I ran in a random direction until I skipped onto a pole and fell.
+</item>
+        <item>\nThen I heard a noise from the back of new canteen. I stumbled and rushed towards it. Then there was Me standing in front of Me!
+Then the opposite me said “ I’m a paradox, I came Back to the Future to sacrifice myself and save you from this Time/Space Continuum. You shall break the loop from it’s Endpoint which itself is it’s Starting Point!” and vanished into thin air.
+</item>
+        <item>\nThen I remembered from my research that time and space are loops/continuum and they start and end at the same point!
+\nSo, I rushed to the library where it all started and then I found the iPod lying on the table and plugged in the earphones and pressed Rewind.
+\nAnd then to prevent myself from using the iPod, I went Back to The Future!
+</item>
+    </string-array>
+
+
+    <string-array name="story2_qr">
+        <item>secretstory2</item>
+        <item>http://opn.to/a/I43Kn</item>
+        <item>http://opn.to/a/d5EcT</item>
+        <item>http://opn.to/a/Aq2EP</item>
+        <item>http://opn.to/a/6tUPL</item>
+        <item>http://opn.to/a/YPjDc</item>
+        <item>http://opn.to/a/oi6ED</item>
+        <item>http://opn.to/a/AmC46</item>
+        <item>http://opn.to/a/V2EXI</item>
+        <item>http://opn.to/a/UxM1l</item>
+        <item>http://opn.to/a/OuYba</item>
+    </string-array>
+
+    <string-array name="story1_qr">
+        <item>secretstory1</item>
+        <item>http://opn.to/a/fnRaN</item>
+        <item>http://opn.to/a/otEMH</item>
+        <item>http://opn.to/a/JfP8r</item>
+        <item>http://opn.to/a/8SWX2</item>
+        <item>http://opn.to/a/2CICz</item>
+        <item>http://opn.to/a/4BAiG</item>
+        <item>http://opn.to/a/HgzW4</item>
+        <item>http://opn.to/a/B5bDT</item>
+        <item>http://opn.to/a/uHzGj</item>
+        <item>http://opn.to/a/iOqdi</item>
+    </string-array>
+
+
+</resources>

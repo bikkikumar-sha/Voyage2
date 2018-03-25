@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "967220251466",
+    "firebase_url": "https://voyage2-46c63.firebaseio.com",
+    "project_id": "voyage2-46c63",
+    "storage_bucket": "voyage2-46c63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967220251466:android:734024ebca6a4af1",
+        "android_client_info": {
+          "package_name": "com.fallout.android.voyage2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967220251466-h6cggtkmumkfvjd3k64p70i4iuq4k0hr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fallout.android.voyage2",
+            "certificate_hash": "78ddaf061eaef91e72644231f42289e24fb69eac"
+          }
+        },
+        {
+          "client_id": "967220251466-oo8o3t4hlvr2vs62kks1sdj9rj58skig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjd4EwTdu5KcOB-IgddBli_LF--LUux0w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967220251466-oo8o3t4hlvr2vs62kks1sdj9rj58skig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

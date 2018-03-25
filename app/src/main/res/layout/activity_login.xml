@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/auth_bg" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp"
+        tools:context="com.fallout.android.continuum.LoginActivity">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:scaleType="centerCrop"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:textStyle="bold"
+                android:textColor="#263238"
+                android:text="The Voyage"
+                android:gravity="center"
+                android:textSize="35dp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="100dp"/>
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Choose your adventure"
+                android:textAlignment="center"
+                android:textColor="#F5F5F5"
+                android:textSize="16sp"/>
+
+        </LinearLayout>
+
+        <RadioGroup
+            android:id="@+id/radio_group"
+            android:layout_width="match_parent"
+            android:layout_height="85dp"
+            android:orientation="horizontal"
+            android:padding="16dp"
+            android:checkedButton = "@id/story1">
+
+            <RadioButton
+                android:id="@+id/story1"
+                android:background="@drawable/radio_button_background"
+                android:button="@android:color/transparent"
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:textColor="#F5F5F5"
+                android:gravity="center"
+                android:layout_height="match_parent"
+                android:text="STORY ONE"/>
+            <View
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"/>
+            <RadioButton
+                android:id="@+id/story2"
+                android:textColor="#F5F5F5"
+                android:background="@drawable/radio_button_background"
+                android:button="@android:color/transparent"
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="STORY TWO"/>
+        </RadioGroup>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:src="@drawable/email_icon" />
+
+            <EditText
+                android:id="@+id/email_edit_text"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="100"
+                android:ellipsize="start"
+                android:hint="Email"
+                android:singleLine="true"
+                android:textColor="#F5F5F5"
+                android:textColorHint="#a5a4aa" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:src="@drawable/pass_icon" />
+
+            <EditText
+                android:id="@+id/password_edit_text"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="100"
+                android:ellipsize="start"
+                android:hint="Password"
+                android:inputType="textPassword"
+                android:singleLine="true"
+                android:textColor="#F5F5F5"
+                android:textColorHint="#a5a4aa" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/login_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="8dp"
+            android:background="#DD323232"
+            android:text="Login"
+            android:textAllCaps="true"
+            android:textColor="#F5F5F5"
+            android:textSize="16dp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="Not a registered user? "
+            android:textColor="#F5F5F5" />
+
+
+        <TextView
+            android:padding="2dp"
+            android:id="@+id/signup_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="Sign Up!"
+            android:textColor="#7986cb" />
+
+    </LinearLayout>
+    </RelativeLayout>
+</FrameLayout>
